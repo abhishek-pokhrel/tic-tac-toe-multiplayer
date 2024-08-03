@@ -1,0 +1,17 @@
+.error-page {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+    color: white;
+}
+
+.error-page h1 {
+    margin-top: 3%;
+    font-size: 4.5rem;
+}
+
+.error-page p{
+    text-decoration: underline;
+    font-weight: bold;
+}
